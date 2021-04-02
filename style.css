@@ -7,19 +7,15 @@ header, #first-section {
     border-bottom: 1px solid gainsboro;
 }
 
+footer .foot{ 
+    text-align: center;
+}
+
+footer ul li{ 
+    display: inline;
+}
+
 li { 
     list-style-type: none; 
-    float: left;
 }
 
-@media (max-width: 575px) { 
-    #footer-list li { 
-        margin-right: 8px;
-    }
-
-    #signature { 
-        text-align: center;
-    }
-
-
-}
