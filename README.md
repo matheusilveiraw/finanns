@@ -2,4 +2,4 @@ Finnans é um dos projetos do curso que eu sigo, como eu estou desenvolvendo min
 
 No momento que eu voltar a praticar JavaScript, provavelmente darei um upgrade nesse site mas no momento deixarei assim.
 
-https://matheusilveiraw.github.io/finnans.github.io/
+Link para acessar o projeto: https://matheusilveiraw.github.io/finnans.github.io/
