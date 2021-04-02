@@ -1,0 +1,25 @@
+header, #first-section { 
+    background: #ffc107;
+}
+
+
+.underline { 
+    border-bottom: 1px solid gainsboro;
+}
+
+li { 
+    list-style-type: none; 
+    float: left;
+}
+
+@media (max-width: 575px) { 
+    #footer-list li { 
+        margin-right: 8px;
+    }
+
+    #signature { 
+        text-align: center;
+    }
+
+
+}
